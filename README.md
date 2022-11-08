@@ -1,4 +1,4 @@
-# Introduction to R - Netsoc workshop November 8th 2022
+# Introduction to R - UCD Netsoc workshop November 8th 2022
 
 Organiser and instructor: [Isabella Gollini](https://igollini.github.io/)  <isabella.gollini@ucd.ie>, Assistant Professor in Statistics, University College Dublin, Ireland.
 
